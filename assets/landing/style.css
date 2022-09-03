@@ -52,6 +52,19 @@ a:hover {
     width: 50%;
 }
 
+#final-section {
+    background-color: #2067ff;
+    height: fit-content;
+}
+
+.final-agrupamento {
+    color: white;
+}
+
+#final-botao {
+    background-color: white;
+    ;
+}
 ul {
     list-style:decimal;
 }
